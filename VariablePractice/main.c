@@ -14,6 +14,7 @@ int main(int argc, const char * argv[])
     float y = 1.9;
     
     printf("The value of x is %d\n", x);
+    printf("The value of y is %f\n", y);
     
     return 0;
 }
